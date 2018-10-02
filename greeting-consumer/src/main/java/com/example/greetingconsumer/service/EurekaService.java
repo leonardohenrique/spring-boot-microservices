@@ -1,4 +1,4 @@
-package com.example.greetingconsumer;
+package com.example.greetingconsumer.service;
 
 import java.net.URI;
 import java.util.List;
